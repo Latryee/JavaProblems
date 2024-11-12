@@ -1,5 +1,5 @@
-package labquestions;
 
+package labquestions;
 import java.util.Scanner;
 
 public class q1 {
