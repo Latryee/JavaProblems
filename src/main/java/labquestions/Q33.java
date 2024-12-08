@@ -1,3 +1,5 @@
+package labquestions;
+
 import java.util.Scanner;
 public class Q33 {
     public static boolean isPrime(int N) {
@@ -22,7 +24,7 @@ public class Q33 {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the integer you want to check: ");
         int n = input.nextInt();
-        System.out.println(n + "sayisi bir Asal sayi mi: " +isPrime(n));
+        System.out.println(n + " sayisi bir Asal sayi mi: " +isPrime(n));
     }
 }
 
