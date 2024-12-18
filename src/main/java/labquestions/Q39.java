@@ -28,4 +28,3 @@ import java.util.Scanner;
         System.out.println("Minimum number is "+min );
     }
 }
-
