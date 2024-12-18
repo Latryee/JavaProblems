@@ -20,7 +20,7 @@ public class UsingStrings {
         }
         System.out.println("Obez kelimesine eşit mi diye kontrol: " + s.equalsIgnoreCase("Obez"));
         System.out.println("İçinde a harfi soldan en yakın nerde var: " + s.indexOf('a'));
-        System.out.println("İçinde a harfi sağdan en yakın nerede var: " + s.lastIndexOf('a'));
+        System.out.println("İçinde a harfi sağdan en yakın nerede var: " + s.lastIndexOf( 'a'));
         System.out.println("Hangi harfle bittiğini kontrol eder: " + s.endsWith("a"));
 
     }
